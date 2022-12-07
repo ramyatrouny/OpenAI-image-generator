@@ -10,8 +10,8 @@ A Node.js Express application for generating images using OpenAI's GPT-3 model.
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/ramyatrouny/openai-image-generator.git`
-2. Navigate to the cloned directory: `cd openai-image`
+1. Clone this repository: `git clone https://github.com/ramyatrouny/openAI-image-generator`
+2. Navigate to the cloned directory: `cd openAI-image-generator`
 3. Install dependencies: `npm install`
 4. Create a file called `.env` and add your OpenAI API key to it in the following format: `OPENAI_API_KEY=[YOUR_API_KEY]`
 5. Start the server: `npm start`
