@@ -41,5 +41,5 @@ The response will be a JSON object like the following:
 }
 ```
 
-
-
+## License
+This project is licensed under the MIT License. See LICENSE for more information.
